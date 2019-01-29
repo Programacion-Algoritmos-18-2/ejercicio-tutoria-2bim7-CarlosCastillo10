@@ -1,3 +1,7 @@
+"""
+    Ejemplo tomado de 
+    http://www.pythondiario.com/2018/08/ordenamiento-por-mezcla-merge-sort.html
+"""
 
 # Función merge_sort
 def merge_sort(lista):
